@@ -1,0 +1,44 @@
+[
+    {
+        "name":"SanDisk Ultra 128GB",
+        "price": "45.89",
+        "description": "Ultra fast san disk flash drive tha has speed of 900MB/s",
+        "ratings":4.5,
+        "images":[{
+            "public_id":"products/00",
+            "url":"https://upload.wikimedia.org/wikipedia/commons/5/59/32_GB_SanDisk_Cruzer_Blade_USB_Flash_Drives.jpg"}],
+        "category": "Electronics",
+        "seller":"Ebay",
+        "stock": 50 ,
+        "numberofReviews":32,
+        "reviews":[]
+    },
+    {
+        "name":"Samsung Galaxy S22",
+        "price": "789.00",
+        "description": "Latest samsung phone with triple camera and 120Hz referesh screen.",
+        "ratings":4.2,
+        "images":[{
+            "public_id":"products/01",
+            "url":"https://i.imgur.com/gI07okZ.jpeg"}],
+        "category": "Electronics",
+        "seller":"Ebay",
+        "stock": 11 ,
+        "numberofReviews":52,
+        "reviews":[]
+    },
+    {
+        "name":"iPhone 14 pro max",
+        "price": "989.00",
+        "description": "Latest iphone with triple camera and 120Hz referesh screen.",
+        "ratings":4.8,
+        "images":[{
+            "public_id":"products/02",
+            "url":"https://i.imgur.com/gI07okZ.jpeg"}],
+        "category": "Electronics",
+        "seller":"Ebay",
+        "stock": 11 ,
+        "numberofReviews":52,
+        "reviews":[]
+    }
+]

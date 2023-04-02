@@ -1,0 +1,30 @@
+{
+  "name": "shop-it",
+  "version": "1.0.0",
+  "description": "full e commerce",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "dev": "SET NODE ENV=DEVELOPMENT& nodemon backend/server",
+    "prod": "SET NODE ENV=PRODUCTION& nodemon backend/server",
+    "seeder": "node backend/utils/seeder"
+  },
+  "author": "Fikremariam Anteneh Asegie",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.1",
+    "cloudinary": "^1.32.0",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.7.2",
+    "nodemailer": "^6.8.0",
+    "request": "^2.88.2",
+    "validator": "^13.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
